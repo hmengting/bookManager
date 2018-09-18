@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookManagerFinal</string>
+    <string name="author">Author</string>
+    <string name="title">Title</string>
+</resources>
